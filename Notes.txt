@@ -1,0 +1,10 @@
+Notes:
+
+index.html is the main entry point into your application
+src/ is where your application-specific custom elements will go
+bower_components/ is where reusable custom elements and/or libraries fetched via bower will go
+images/ is for static images
+test/ is where you define tests for your web components.
+
+
+https://www.polymer-project.org/1.0/start/toolbox/set-up
