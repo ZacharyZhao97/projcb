@@ -1,0 +1,12 @@
+{
+  "name": "projcb",
+  "homepage": "",
+  "description": "",
+  "main": "",
+  "license": "",
+  "dependencies": {
+    "polymer": "^1.6.1",
+    "polymer-elements": "Polymer/polymer-elements#^0.3.0",
+    "polymer-ui-elements": "Polymer/polymer-ui-elements#^0.3.0"
+  }
+}
